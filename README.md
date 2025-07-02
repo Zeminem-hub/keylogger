@@ -1,4 +1,3 @@
-# keylogger
 # 🔐 Python Keylogger
 
 A simple keylogger project created using the `pynput` Python library. This tool records keystrokes on the keyboard and stores them in a local `log.txt` file.
@@ -26,7 +25,7 @@ This script uses Python’s `pynput` library to monitor and log keyboard events.
 
 ## ⚙️ Requirements
 
-- Python 3.x
+- Python 3.x  
 - `pynput` library
 
 You can install `pynput` using pip:
